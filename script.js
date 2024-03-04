@@ -16,7 +16,7 @@ async function getCountries() {
               Capital : ${country.capital}
               </p>
               <p class="card-text">
-              Region : ${country.region}
+              Region : ${country.region} 
               </p>
               <p class="card-text">
               Country Code : ${country.cca3}
